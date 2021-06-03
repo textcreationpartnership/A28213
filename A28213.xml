@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two centvries of Pauls church-yard una cum indice expurgatorio in bibliothecam Parliamenti, sive librorum, qui prostant venales in vico vulgo vocato Little-Brittain / done into English for the benefit of the assembly of divines, and the two universities.</title>
+            <author>Birkenhead, John, Sir, 1616-1679.</author>
+         </titleStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28213</idno><idno type="EEBO-CITATION">13201477</idno>
+  <idno type="VID">98456</idno>
+  <idno type="EEBO-PROQUEST">2240907444</idno>
+  
+            <idno type="STC">Wing B2973</idno>
+            <idno type="STC">ESTC R4922</idno>
+            <idno type="OCLC">13201477</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A28213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 446:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two centvries of Pauls church-yard una cum indice expurgatorio in bibliothecam Parliamenti, sive librorum, qui prostant venales in vico vulgo vocato Little-Brittain / done into English for the benefit of the assembly of divines, and the two universities.</title>
+                  <author>Birkenhead, John, Sir, 1616-1679.</author>
+               </titleStmt>
+               <extent>62 [i.e. 64] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Birkenhead.  Cf. BLC.</note>
+                  <note>Arms of the two universities on t.p.</note>
+                  <note>"Biblioteca Parliamenti" which contains excerpts from this work, has imprint: Printed at London, 1653.</note>
+                  <note>Previously published as Pavl's church-yard : Libri theologici ..., there are a number of changes in the text.</note>
+                  <note>A satire on the commonwealth in the form of bookseller's lists.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98456:1"/>
+            <pb facs="tcp:98456:1"/>
+            <p> TWO CENTVRIES OF Pauls Church-yard: Unà <hi>Cum Indice Expurgatorio in Biblio<g ref="char:EOLhyphen"/>thecam</hi> Parliamenti, SIVE <hi>Librorum, qui prostant venales in Vi<g ref="char:EOLhyphen"/>co Vulg<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Vocat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Little Brittain.</p>
+            <p>Done into English for the benefit of the Assembly of Divines, and the two Universities</p>
+            <figure>
+               <figDesc>emblem of the University of Oxford</figDesc>
+               <p>ACADEMIA OXONIES<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p>SAPIENTIA <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <figure>
+               <figDesc>emblem of Cambridge University</figDesc>
+               <p>HINC LVCEM ET POCULA SACRA</p>
+               <p>ALMA MATER CANT<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>BRIGIA</p>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:98456:2"/>
+            <head>Pauls Church-yard.</head>
+            <head type="sub">
+               <hi>Libri Theologici, Politici, Histo<g ref="char:EOLhyphen"/>rici, Nundinis</hi> Paulinis <hi>(unà cum</hi> Templo) <hi>prostant ve<g ref="char:EOLhyphen"/>nales.</hi>
+            </head>
+            <p>Juxta seriem Alphabeti De<g ref="char:EOLhyphen"/>mocratici.</p>
+            <div n="1" type="part">
+               <head>CLASSIS I.</head>
+               <p n="1">1. <hi>GƲsman</hi>'s Cases of Con<g ref="char:EOLhyphen"/>science, Revised and augmented by <hi>Hugh Peters.</hi>
+               </p>
+               <p n="2">2. The Earle of <hi>Pembrook</hi>'s Works, in three Tomes, re<g ref="char:EOLhyphen"/>printed since his death, with an Index added by the Earle of <hi>Salisbury.</hi>
+               </p>
+               <p n="3">
+                  <pb n="3" facs="tcp:98456:2"/> 3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. A discourse proving the World in the Moon is not govern'd by <hi>States</hi> because her Monethly Contri<g ref="char:EOLhyphen"/>butions do still <hi>decrease</hi> as much as <hi>increase,</hi> but Ours <hi>in<g ref="char:EOLhyphen"/>crease</hi> and never <hi>decrease.</hi>
+               </p>
+               <p n="4">4. <hi>Hugo de Sonte Victoria;</hi> or, a Confutation of that dange<g ref="char:EOLhyphen"/>rous Errour, That Colonel <hi>Hu<g ref="char:EOLhyphen"/>son</hi> had his name from hand<g ref="char:EOLhyphen"/>ling St. <hi>Hugh</hi>'s Bones; Proved by 200. Texts of Scripture, ta<g ref="char:EOLhyphen"/>ken out of his own Letters from <hi>Dublin.</hi>
+               </p>
+               <p n="5">5. <hi>Ecclesiasticus.</hi> A plain Demonstration that Col. <hi>Pride</hi> (aliàs <hi>Bride,)</hi> was <hi>Founder</hi> of St. <hi>Brides</hi> Church, and not <hi>found</hi> in the Porch, because the Porch was built before the Church, that is, not behind it.</p>
+               <p n="6">6. <hi>Quantum potes.</hi> The Law<g ref="char:EOLhyphen"/>fulness of taking 12. <hi>per Cent.</hi> By D. <hi>Will. Gouge.</hi>
+               </p>
+               <p n="7">
+                  <pb n="4" facs="tcp:98456:3"/> 7. <hi>A Catalogue of the Nobility of England</hi> and <hi>Ireland</hi> from his Excellency the Lord Gene<g ref="char:EOLhyphen"/>rall <hi>Cromwell,</hi> and the Lord Deputy <hi>Ireton,</hi> to the severall Peers &amp; Trades of each Regi<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="8">8. <hi>The Swing.</hi> Or the Life and Death of Alderman <hi>Hoyle:</hi> with a short <hi>Appendix</hi> by the States late <hi>Chees-monger.</hi>
+               </p>
+               <p n="9">9. Severall Readings on the Statute of <hi>Magna Charta▪</hi> by <hi>John Lylburn;</hi> with a Treatise of the best way of boiling <hi>Soap.</hi>
+               </p>
+               <p n="10">10. <hi>Tot quot</hi> The unlawfulnes of holding two Benefices, and the lawfulnes of holding Four, by the Assembly of Divines.</p>
+               <p n="11">11. <hi>Merl<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nus Anglicus.</hi> The Art of Discovering all that ne<g ref="char:EOLhyphen"/>ver was, &amp; all that never shall be, by <hi>W. Lilly,</hi> with an <hi>Index</hi> thereunto, by <hi>John Booker.</hi>
+               </p>
+               <p n="12">
+                  <pb n="5" facs="tcp:98456:3"/> 12. <hi>Pancirollae Medela.</hi> A way to find out things lost or stoln; by the said <hi>W. Lilly.</hi> With a <hi>Cla<g ref="char:EOLhyphen"/>vis</hi> to his Book, or the Art of this Art. By Mistis <hi>Mary Frith.</hi>
+               </p>
+               <p n="13">13. <hi>Cujum pecus?</hi> The Law of Cosin-Germans, cleared in this Case, [<note n="*" place="margin">Scribi ex<g ref="char:EOLhyphen"/>pedit, scribe<g ref="char:EOLhyphen"/>re tamen horreo, quod vel perpe<g ref="char:EOLhyphen"/>trâsse Pseu<g ref="char:EOLhyphen"/>do▪ Sancti non veren<g ref="char:EOLhyphen"/>tur.</note> An <hi>Elder</hi>'s Maid took a Mastiff Dog; an <hi>Inde<g ref="char:EOLhyphen"/>pendent Corporall</hi> espous'd a Bitch: may not the Presbyte<g ref="char:EOLhyphen"/>rian Dogs son marry the Inde<g ref="char:EOLhyphen"/>pendent Bitches daughter, they being Brothers and Si<g ref="char:EOLhyphen"/>sters Children?]</p>
+               <p n="14">14. A Confutation of that Vulgar opinion, that <hi>a Receiver is worse then a thief,</hi> because now very honest men are Re<g ref="char:EOLhyphen"/>ceivers of the Kings Revenues.</p>
+               <p n="15">15. <hi>Tibi Licet.</hi> That a woman may have two husbands at once, if her second husband be faithfull to the State. By Mrs. <hi>Jane Puckering.</hi>
+               </p>
+               <p n="16">
+                  <pb n="6" facs="tcp:98456:4"/> 16. The <hi>Childrens Dictiona<g ref="char:EOLhyphen"/>ry,</hi> An Exact Collection of all new Words (born since <hi>Nov.</hi> 3. 1640) in Speeches, Prayers, or Sermons, as well those that sig<g ref="char:EOLhyphen"/>nific Something as Nothing.</p>
+               <p n="17">17. <hi>Gladius Justitiae.</hi> That the <hi>Power of the Sword</hi> belongs to him that gets hold of the hilt.</p>
+               <p n="18">18. <hi>Dooms-day-Book.</hi> A clear manifestatiō that more <hi>Round<g ref="char:EOLhyphen"/>heads</hi> go to heaven then <hi>Cava<g ref="char:EOLhyphen"/>liers,</hi> because <hi>Roundheads</hi> on their death-beds do repent of their former Cause and Opini<g ref="char:EOLhyphen"/>ons, but not <hi>Cavaliers.</hi>
+               </p>
+               <p n="19">19. <hi>A new Map of England.</hi> shewing that those few at <hi>West<g ref="char:EOLhyphen"/>minster</hi> are Representatives of the Common-wealth, in re<g ref="char:EOLhyphen"/>gard the whole Nation payes them Contribution.</p>
+               <p n="20">20. <hi>Datur vacuum.</hi> Proving that there shall be nothing but
+<pb n="7" facs="tcp:98456:4"/>
+                  <hi>Vacation,</hi> because there shall be no <hi>Terms.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>CLASSIS II.</head>
+               <head type="sub">
+                  <hi>Containing</hi> 20 <hi>new Acts of Parliament.</hi>
+               </head>
+               <p n="21">21. AN Act for turning all laws into <hi>English,</hi> with a short Abridgment for such new Lawyers as cannot write and read.</p>
+               <p n="22">22. An Act for making <hi>adul<g ref="char:EOLhyphen"/>tery</hi> death in all persons, except <hi>Representatives,</hi> for whom it shall be lawfull to have as ma<g ref="char:EOLhyphen"/>ny <hi>Women,</hi> as they Represent <hi>Men.</hi>
+               </p>
+               <p n="23">23. An Act for expunging the word <hi>King,</hi> and inserting the word—in all text of Scripture, beginning at <hi>Isa.</hi> 30. 33. <hi>Tophet is prepared for the—</hi>
+               </p>
+               <p n="24">24. An Act concerning the <hi>Thames,</hi> that whereas at <hi>West<g ref="char:EOLhyphen"/>minster</hi> it ebs six hours &amp; flows
+<pb n="8" facs="tcp:98456:5"/> but four; it shall henceforth eb four hours, and flow six.</p>
+               <p n="25">25. An Act for easing the people of <hi>Taxes,</hi> that no single and standing Tax shall exceed 12000. l. <hi>per mensem.</hi>
+               </p>
+               <p n="26">26. An Act for better orde<g ref="char:EOLhyphen"/>ring of <hi>apparell,</hi> forbidding Cavaliers to wear any cloaks.</p>
+               <p n="27">27. An Act for Canonizing those for <hi>Saints</hi> that die in the <hi>States</hi> service; who, since there are but two Worlds, ought at least to be honoured in one.</p>
+               <p n="28">28. An Act for regulating the Company of <hi>Link-boyes,</hi> that none shall carry Links but such as shall be licenc'd, and pay the State 2 pence for every Link.</p>
+               <p n="29">29. An act for taking those Letters which stand upon <hi>Suf<g ref="char:EOLhyphen"/>folkhouse</hi> (aswel as their neigh<g ref="char:EOLhyphen"/>bor <hi>Charing cross)</hi> in regard the
+<pb n="7" facs="tcp:98456:5"/> said Leters highly indeavour the <hi>advancement of learning.</hi>
+               </p>
+               <p n="30">30. An Act prohibiting all Delinquents to eat more than one Meal a week.</p>
+               <p n="31">31. An Act for impressing 10000. Souldiers, whereby it is lawfull to presse any Yeo<g ref="char:EOLhyphen"/>man, unlesse he be a Member of some Committee, or lately made a Justice of Peace.</p>
+               <p n="32">32. An Act for pulling down all Monarchicall Signs in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> [the <hi>Sun,</hi> the <hi>Eagle,</hi> the <hi>Phae<g ref="char:EOLhyphen"/>nix,</hi> the <hi>Lion,</hi> &amp;c.] and setting up such Birds and Beasts as have more heads than one.</p>
+               <p n="33">33. An Act for repealing a former Ordinance of <hi>Octob.</hi> 18. 1642. call'd <hi>An Ordinance for bringing to condigne punish<g ref="char:EOLhyphen"/>ment such as slander the Parlia<g ref="char:EOLhyphen"/>ment to have an intention to set up an Excise.</hi>
+               </p>
+               <p n="43">
+                  <pb n="10" facs="tcp:98456:6"/> 43. <hi>Pro populo Anglicano.</hi> Proving that Kings had many Evils, because the <hi>Kings Evill</hi> was so often cured.</p>
+               <p n="44">44. <hi>Species quarta.</hi> A new di<g ref="char:EOLhyphen"/>vision of Government into <hi>Monarchy, Aristocracy, Demo<g ref="char:EOLhyphen"/>cracy,</hi> and <hi>Anarchy,</hi> by <hi>Nathani<g ref="char:EOLhyphen"/>el Bacon</hi> of Grayes Inne Es<g ref="char:EOLhyphen"/>quire, which <hi>Fourth</hi> was found out by the <hi>four kinds of Seekers,</hi> some whereof did <hi>never seek at all.</hi>
+               </p>
+               <p n="45">45. <hi>Moon beams,</hi> Shewing how the Moon hath stronger influence than the Sun: by Dr. <hi>Chamberlain,</hi> Medico Enthearo</p>
+               <p n="46">46. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, That the Ar<g ref="char:EOLhyphen"/>my ought to march but two a brest, since all creatures at <hi>Noah</hi>'s Ark went by Couples.</p>
+               <p n="47">47. The art of flying with<g ref="char:EOLhyphen"/>out wings: approved by divers Commanders of quality.</p>
+               <p n="48">
+                  <pb n="11" facs="tcp:98456:6"/> 48. The Confutation of Geographers, who said we of this Island were <hi>Antipodes to none,</hi> though we tread contra<g ref="char:EOLhyphen"/>ry to all the world.</p>
+               <p n="49">49. An Answer to all that <hi>James Howel</hi> hath or shal write, especially to his last Book writ<g ref="char:EOLhyphen"/>ten for the <hi>States</hi> against him<g ref="char:EOLhyphen"/>self. By <hi>John Taylor</hi> the <hi>Water Poet.</hi>
+               </p>
+               <p n="50">50. <hi>Christian Liberty:</hi> Or the the lawfullnesse of Shifting Sides and Opinions, as the Saints do wives, which if not for their turn, do turn them off and take new ones.</p>
+               <p n="51">51. <hi>Aristotles</hi> works in <hi>En<g ref="char:EOLhyphen"/>glish Meeter,</hi> by <hi>George Wither.</hi>
+               </p>
+               <p n="52">52. A Vindication of the Citizens of <hi>London,</hi> that as yet they want nothing but <hi>Wit</hi> &amp; <hi>Honesty.</hi>
+               </p>
+               <p n="53">53. A Declaration from <hi>All</hi>
+                  <pb n="12" facs="tcp:98456:7"/>
+                  <hi>souls</hi> Colledge in <hi>Oxford,</hi> that since they were deprived of their <hi>Warden</hi> Doctor <hi>Shelden,</hi> they have not been an houre out of the <hi>Physitians</hi> hands, most members of that Col<g ref="char:EOLhyphen"/>ledge being strangely taken a<g ref="char:EOLhyphen"/>way; and a <note n="*" place="margin">D. <hi>Palmer</hi>
+                  </note> Member of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> set over the rest.</p>
+               <p n="54">54. A Declaration from Saint <hi>John Baptists</hi> Colledge in <hi>Oxford,</hi> that since their Head was voted off, and a new on<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> set on, they have been trou<g ref="char:EOLhyphen"/>bled with very strange fits, e<g ref="char:EOLhyphen"/>specially at this time of thei<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Colledge Dedication (com<g ref="char:EOLhyphen"/>monly called <hi>Midsummer)</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which dangerous Moneth the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> desire that Mr. <hi>Cheynell</hi> ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not be their <hi>President.</hi>
+               </p>
+               <p n="55">55. <hi>The Wandring Jew.</hi> B<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Dr. <hi>Du-Moulin</hi> Junior, Medi<g ref="char:EOLunhyphen"/>co-Theologo-Historico-Bell<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:98456:7"/> Gallicus-Gallo Belgicus.</p>
+               <p n="56">56. <hi>The jurisdiction of Courts</hi> That the <hi>Ʋpper and Lower Bench</hi> are Legall Seats of Ju<g ref="char:EOLhyphen"/>stice, being made of such wood as grew in the <hi>Kings</hi> Forrests, and cut down by Ordinance of Parliament.</p>
+               <p n="57">57. The <hi>Free State.</hi> Proving <hi>Republicks</hi> the best kind of Go<g ref="char:EOLhyphen"/>vernment, which have <hi>Stewes</hi> for <hi>Curtizans,</hi> and <hi>Synagogues</hi> for <hi>Jews.</hi>
+               </p>
+               <p n="58">58. <hi>Lex Aragoniae.</hi> That <hi>Malignants</hi> are Dead men in the <hi>Spainards</hi> accompt, where ten years slavery is held equal to a civill death.</p>
+               <p n="59">59. <hi>The equitable Sense.</hi> That such as paid their whole <hi>Com<g ref="char:EOLhyphen"/>position,</hi> with <hi>Fift</hi> and <hi>Twenti<g ref="char:EOLhyphen"/>eth</hi> part, ought to enjoy but a <hi>fift</hi> part of their <hi>estates,</hi> and a 20. part of their <hi>liberty,</hi> keep<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:98456:8"/> twenty miles from <hi>London,</hi> and not five miles from home.</p>
+               <p n="60">60. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Proving that there is some body in some part of <hi>England</hi> who is not a Preacher.</p>
+            </div>
+            <div n="4" type="part">
+               <head>CLASSIS. IV.</head>
+               <head type="sub">
+                  <hi>Caesuists, Resolving Tender Con<g ref="char:EOLhyphen"/>sciences in these</hi> 40 <hi>years Quaeres.</hi>
+               </head>
+               <p n="61">61. WHether those Mem<g ref="char:EOLhyphen"/>ber who were never <hi>elected</hi> may be called <hi>Repro<g ref="char:EOLhyphen"/>bates?</hi>
+               </p>
+               <p n="62">62. Whether <hi>Adam</hi>'s Rib hath slain more than <hi>Sampsons</hi> Jaw bone?</p>
+               <p n="63">63. Whether <hi>England</hi> be <hi>Sampson</hi> (as Mr <hi>Goodwin</hi> tels us) <hi>because it is strong;</hi> or be<g ref="char:EOLhyphen"/>cause
+<pb n="15" facs="tcp:98456:8"/>
+'tis imprison'd, shaven close, and hath lost its <hi>two eyes?</hi>
+               </p>
+               <p n="64">64. Whether the Spanish Ambassadour <hi>Don Alonzo de Cardenas</hi> be better paid from <hi>Madrid</hi> or <hi>Westminster.</hi>
+               </p>
+               <p n="65">65. Whether the two <hi>Ho<g ref="char:EOLhyphen"/>thams</hi> shall rise as they were buried, in Boots and Spurs?</p>
+               <p n="66">66. Whether that Text <hi>[They are all become abominable, there is none that doth good, no not one]</hi> doth concern <hi>Committee men?</hi>
+               </p>
+               <p n="67">67 Whether we ought (with Master <hi>Haerrison)</hi> to pray God to <hi>pardon the sins of our complexion?</hi>
+               </p>
+               <p n="68">68. Whether they slander'd his <hi>Excellency</hi> who reported him dead, since his own print<g ref="char:EOLhyphen"/>ed Letter calls him a <hi>dry Bone?</hi>
+               </p>
+               <p n="69">69. Whether any now know what the Lord <hi>Say</hi> is doing, or
+<pb n="16" facs="tcp:98456:9"/> whether now his Lordship knows what to do?</p>
+               <p n="70">70. Whether to shake off Al<g ref="char:EOLhyphen"/>legiance for Christian Liberty, were not <hi>Don Quixot's</hi> argu<g ref="char:EOLhyphen"/>ment to turn loose the Gally-slaves, because <hi>God and Nature made them free?</hi>
+               </p>
+               <p n="71">71. Whether <hi>Butchers</hi> and <hi>Cutlers</hi> ought to have prece<g ref="char:EOLhyphen"/>dence of all Companies in <hi>London,</hi> since the <hi>power of the sword</hi> is the sole Title to Go<g ref="char:EOLhyphen"/>vernment?</p>
+               <p n="72">72. Whether there be any o<g ref="char:EOLhyphen"/>ther <hi>Insula Latronum,</hi> besides that which stole <hi>Magellan's</hi> Cock-boat?</p>
+               <p n="73">73. Whether the <hi>States</hi> Book<g ref="char:EOLhyphen"/>man did not properly mistake when (for <hi>Insulares)</hi> he called the English <hi>Insularii,</hi> i. e. poore slaves?</p>
+               <p n="74">74. Whether since no man
+<pb n="17" facs="tcp:98456:9"/> must print or write Books, we may print the names of Books that never were <hi>written?</hi>
+               </p>
+               <p n="75">75. Whether we (as well as <hi>Seneca)</hi> may call a Common woman <hi>Respublica?</hi>
+               </p>
+               <p n="76">76 Whether the Nobility are not bound to turn Souldi<g ref="char:EOLhyphen"/>ers, when most of their hou<g ref="char:EOLhyphen"/>ses at <hi>London</hi> are made Gari<g ref="char:EOLhyphen"/>sons?</p>
+               <p n="77">77. Whether <hi>Representatives</hi> have more lives then one?</p>
+               <p n="78">78. Whether Master <hi>Dell</hi> when he bid every Souldier <hi>be like the Generall,</hi> meant they should all be <hi>Generalls,</hi> or all look like the <hi>Generall?</hi>
+               </p>
+               <p n="79">79 Whether the Chaplains do well to tell the Army <hi>you shall never read the like,</hi> when most of the Officers can nei<g ref="char:EOLhyphen"/>ther write nor read?</p>
+               <p n="80">80. Whether it be any disho<g ref="char:EOLhyphen"/>nour
+<pb n="18" facs="tcp:98456:10"/> to the <hi>Parliament</hi> that the first parley in the world was 'twixt a <hi>Woman</hi> and the <hi>Devill?</hi>
+               </p>
+               <p n="81">81. Whether now more Bodies and Souls are saved, when every man doth either practise Physick or Preach?</p>
+               <p n="82">82. Why all the Lawyers, when the Term ended, shook hands at <hi>Westminster;</hi> and whe<g ref="char:EOLhyphen"/>ther they hope ever to meet there again?</p>
+               <p n="83">83 Whether the <hi>Furriers</hi> Prentice or Doctor <hi>Chamber<g ref="char:EOLhyphen"/>lain</hi> make better Sermons?</p>
+               <p n="84">84. Whether it be as lawfull to build a Church, and call it S. <hi>Pauls,</hi> as to build Ships and call them the <hi>Fairfax,</hi> the <hi>Pre<g ref="char:EOLhyphen"/>sident, the Speaker?</hi>
+               </p>
+               <p n="85">85. Whether Saint <hi>Paul</hi> ought to have a Cathedrall in <hi>England,</hi> since he had none in
+<pb n="19" facs="tcp:98456:10"/> any other part of the world?</p>
+               <p n="86">86. Whether that place may be read, <hi>My House is called a House of Prayer, but ye have made it a Guard of Independants?</hi>
+               </p>
+               <p n="87">87. Whether Mr. <hi>Rous</hi> or <hi>Robbin Wisdome</hi> be the better Poet?</p>
+               <p n="88">88. Whether Malignants plotted the Spanish Armado in 88?</p>
+               <p n="89">89. Whether the States Wri<g ref="char:EOLhyphen"/>ters may be called poor Scrib<g ref="char:EOLhyphen"/>ler, since in all their Books they still beg the Question?</p>
+               <p n="90">90. Whether ever there was so much and so little written as now?</p>
+               <p n="91">91. Whether the Stationer that gave 400l. for the <hi>Dire<g ref="char:EOLhyphen"/>ctory</hi> was cursed with <hi>Bell</hi> and <hi>Candle</hi> as well as <hi>Book.</hi>
+               </p>
+               <p n="92">92 Whether the <hi>Common-Prayer</hi> Book should fare worse
+<pb n="20" facs="tcp:98456:11"/> because it first was established on the <note n="*" place="margin">1549.</note> 19th of <hi>May,</hi> which is the Kings Birth-day?</p>
+               <p n="93">93 Whether the Vintner in Saint <hi>Clements,</hi> when com<g ref="char:EOLhyphen"/>manded to change his Sign of the <hi>Kings Head,</hi> did well to put up the Head of S. <hi>John Baptist.</hi>
+               </p>
+               <p n="94">94. VVhether when Mr. <hi>Ca<g ref="char:EOLhyphen"/>ryl</hi> called His Excellency <hi>an Angel,</hi> he ought not to have told us, he meant a <hi>good Angel?</hi>
+               </p>
+               <p n="95">95. Whether the State should not allow two Harvests in one year, when they take double Taxes?</p>
+               <p n="96">96. Whether the Maid that was hang'd at <hi>Oxford</hi> &amp; reviv'd had subscribed the <hi>Ingagement?</hi>
+               </p>
+               <p n="97">97. Whether it is not easie to be rich, if a man would quit his conscience and turn Roundhead.</p>
+               <p n="98">98 When they burnt <hi>Don</hi>
+                  <pb n="21" facs="tcp:98456:11"/>
+                  <hi>Quixot's</hi> Library, they did wisely to burn all <hi>Translations;</hi> &amp; if the like were done now, whether there would not be a most lamentable fire?</p>
+               <p n="99">99. Whether the <hi>Parliamont</hi> had not cause to forbid <hi>Christ<g ref="char:EOLhyphen"/>mas</hi> when they found their printed Acts under so many <hi>Christmas Pies.</hi>
+               </p>
+               <p n="100">100. Whether he that scrib<g ref="char:EOLhyphen"/>led this Catalogue of <hi>Books</hi> was not robb'd of all his <hi>own?</hi>
+               </p>
+               <q>Sic desinit Centuria prima</q>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="22" facs="tcp:98456:12"/>
+            <head>CENTURIA SECUNDA.</head>
+            <head type="sub">
+               <hi>Libri Theologici, Politici, Hi<g ref="char:EOLhyphen"/>storici, Nundinis</hi> Paulinis <hi>(u<g ref="char:EOLhyphen"/>nà cum</hi> Templo) <hi>prostant ve<g ref="char:EOLhyphen"/>venales,</hi> &amp;c.</head>
+            <div n="5" type="part">
+               <head>CLASSIS V.</head>
+               <p n="101">101. Tshsh. <hi>Eilver Shekel.</hi> A Treatise proving the <hi>Excise</hi> is <hi>jure di<g ref="char:EOLhyphen"/>vino:</hi> By <hi>John Goodwin.</hi>
+               </p>
+               <p n="102">102. <hi>Scaliger in laudem anseris,</hi> Or, A Panegyrick to the Earl of <hi>Salisbury.</hi>
+               </p>
+               <p n="103">103. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That the Government by <hi>States</hi> is bet<g ref="char:EOLhyphen"/>ter then <hi>Kings</hi> by six millions <hi>per annum.</hi>
+               </p>
+               <p n="104">104. <hi>Terra Sancta.</hi> An Answer to the Adage which calls the King of <hi>England Rex Daemo<g ref="char:EOLhyphen"/>num,</hi> because now we are all <hi>Saints;</hi>
+               </p>
+               <p n="105">
+                  <pb n="23" facs="tcp:98456:12"/> 105. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That a <hi>Twentieth part</hi> is more than a <hi>Fift,</hi> and a <hi>Fift</hi> more than All. By a Member of the Commit<g ref="char:EOLhyphen"/>tee of <note n="*" place="margin">That word hath paid its twentieth part.</note>
+                  <hi>—dashers Hall.</hi>
+               </p>
+               <p n="106">106. <hi>The blue Legend;</hi> Or, <hi>[Spiritual Experience held forth by Saints at a private Confe<g ref="char:EOLhyphen"/>rence.]</hi> By <hi>Vavasor Powell.</hi>
+               </p>
+               <p n="107">107. <hi>Posthuma Penbrochiana.</hi> The late Earle of <hi>Pembroke</hi>'s old Cloaths worn by Alder<g ref="char:EOLhyphen"/>man <hi>Titchbourn;</hi> first, because he bought them; secondly, be<g ref="char:EOLhyphen"/>cause they fit him.</p>
+               <p n="108">108. <hi>Opp<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Pro<g ref="char:EOLhyphen"/>ving the Sea is not govern'd like <hi>Islands,</hi> because the great Fish eat the lesse; but here the lesse devoure the greater.</p>
+               <p n="109">109. <hi>Bellum Grammaticale.</hi> That <hi>Parliament dome, Councel<g ref="char:EOLhyphen"/>dome, Committeedome,</hi> or <hi>Sword<g ref="char:EOLhyphen"/>dome,</hi> are better words than
+<pb n="24" facs="tcp:98456:13"/>
+                  <hi>Christendome</hi> or <hi>Kingdome.</hi>
+               </p>
+               <p n="110">110. <hi>The Devil of Saint Dun<g ref="char:EOLhyphen"/>stan</hi>'s. Or a Confutation of those, who affirm Mr. <hi>Strong</hi> hath no mouth.</p>
+               <p n="111">111. <hi>Aurum volatile.</hi> How to hit a Purse flying. By <hi>Ed<g ref="char:EOLhyphen"/>mund Predeaux.</hi>
+               </p>
+               <p n="112">112. <hi>Ʋntemper'd Morter.</hi> That the Meal which is sold in St. <hi>Pauls</hi> Church, is mixt with Lime, and hath caus'd this new <hi>Plague in the Guts.</hi>
+               </p>
+               <p n="113">113. <hi>Trigobius.</hi> Of the shor<g ref="char:EOLhyphen"/>test and cheapest way to hea<g ref="char:EOLhyphen"/>ven. By <hi>Stephen Marshall.</hi>
+               </p>
+               <p n="114">114. <hi>The Armies Remon<g ref="char:EOLhyphen"/>strance,</hi> that his <hi>Excellency</hi> and his Officers took up Arms in defence of their own Lands and Revenues.</p>
+               <p n="115">115. <hi>Salus in ferro.</hi> That Primitive Christians were fooles to bee Martyrs, when
+<pb n="25" facs="tcp:98456:13"/> Arms were in their hands. By <hi>Francis Rous</hi> Provost of <hi>Eaton.</hi>
+               </p>
+               <p n="116">116. <hi>Camden</hi>'s <hi>Remains.</hi> Pro<g ref="char:EOLhyphen"/>ving this Island was part of the <hi>Continent,</hi> and that <hi>then</hi> it was governed by <hi>Parliaments</hi> and <hi>States.</hi>
+               </p>
+               <p n="117">117. <hi>Dominus à Domo.</hi> That the House of <hi>Commons</hi> is called a <hi>House,</hi> because the members resolve to <hi>dwell</hi> there.</p>
+               <p n="118">118. <hi>Baubella.</hi> That the word <hi>Baubles</hi> (as appears in <hi>Hoveden</hi> in <hi>Rich.</hi> 1.) doth pro<g ref="char:EOLhyphen"/>perly signifie <hi>Jewels</hi> or <hi>prccious stones.</hi> By Sir <hi>Henry Mildmay</hi> Master of the <hi>baubles.</hi>
+               </p>
+               <p n="119">119. <hi>Probatur per con-testes.</hi> A Confirmation of Sir <hi>Henry Mildmay</hi>'s opinion for the <hi>ge<g ref="char:EOLhyphen"/>nuine</hi> signification of the word <hi>baubles.</hi> By Sir <hi>John Hipsley,</hi> and Mr <hi>Henry Martin.</hi>
+               </p>
+               <p n="120">120. Six hundred Texts of
+<pb n="26" facs="tcp:98456:14"/> Scripture in Hebrew Ana<g ref="char:EOLhyphen"/>grams, By <hi>Luke Harruney.</hi>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>CLASSIS VI.</head>
+               <head type="sub">
+                  <hi>Twenty new Acts of Parliament.</hi>
+               </head>
+               <p n="121">121 AN Act for Constitu<g ref="char:EOLhyphen"/>ting six new He<g ref="char:EOLhyphen"/>raulds, in regard of the old ones cannot Blazon the Armes of divers new <hi>honourable</hi> Offi<g ref="char:EOLhyphen"/>cers of <hi>State.</hi>
+               </p>
+               <p n="122">122. An Act for sending two thousand pair of Shoes to the Souldiers in <hi>Irelan<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> which Shoes shall be approved by Col. <hi>Hewson</hi> Governour of <hi>Dublin.</hi>
+               </p>
+               <p n="123">123. An <hi>Act for Propagation of the Gospel in Wales▪</hi> that whereas heretofore each Pa<g ref="char:EOLhyphen"/>rish had a Minister (who now are all Sequestred) there shall be
+<pb n="27" facs="tcp:98456:14"/> three <hi>Itinerants</hi> or <hi>Riding Preachers</hi> to teach the word for benefit of the <hi>State.</hi>
+               </p>
+               <p n="124">124. An Additionall Act for making <hi>Vavasor Powel</hi> one of the <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ding Ministers,</hi> because formerly he was a good Groom: and <hi>Jenkin Jones</hi> ano<g ref="char:EOLhyphen"/>ther, because he was a Troo<g ref="char:EOLhyphen"/>per, and <hi>David Gamm</hi> the third, because his Family were found good Horse-takers.</p>
+               <p n="125">125. An Act for admitting <hi>Jews</hi> into <hi>England,</hi> with a short Proviso for banishing the Ca<g ref="char:EOLhyphen"/>valiers.</p>
+               <p n="126">126. An Act <hi>for removing all Obstructions,</hi> (especially those of <hi>Law</hi> or <hi>Conscience) for sale of the Kings Fee-farm Rents</hi>
+               </p>
+               <p n="127">127. An Act for taking some small <hi>Excize</hi> from such as drink fair Water, since the <hi>State</hi> gave order to cleanse the Rive<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+               <p n="128">
+                  <pb n="28" facs="tcp:98456:15"/> 128 An Act for those who first sent Money or Plate to <hi>Guild Hall</hi> to double the sum, or else lose the former.</p>
+               <p>An Act of <hi>Oblivion</hi> for Ma<g ref="char:EOLhyphen"/>lignants to forget that ever they had Estates.</p>
+               <p n="130">130. An Act commanding all men to agree, that since there must be but few <hi>Lawes,</hi> there may be few <hi>Causes.</hi>
+               </p>
+               <p n="131">131. An Act for <hi>Lawyers</hi> to plead in their Cloaks, and their Gowns to be hung up in <hi>Westminster Hall</hi> among the <hi>Scot's</hi> Colours.</p>
+               <p n="132">132. An Act for repealing a former Act [called <hi>An Act for disabling cl<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rgy men to inter<g ref="char:EOLhyphen"/>meddle in civil affairs]</hi> that so Mr. <hi>Peters</hi> may be of the <hi>Com<g ref="char:EOLhyphen"/>mittee for altering the Law.</hi>
+               </p>
+               <p n="133">133. An Additionall Act that the Grand Committee for al<g ref="char:EOLhyphen"/>tering
+<pb n="29" facs="tcp:98456:15"/> the <hi>Law,</hi> shall sit on the 20th of <hi>January,</hi> which day his late <hi>MAJESTY</hi> was sentenc'd to dy.</p>
+               <p n="134">134. An Act for taking down the Scaffolds from <hi>Pauls,</hi> and setting another on <hi>Tower-Hill.</hi>
+               </p>
+               <p n="135">135. An Act that the Au<g ref="char:EOLhyphen"/>thor of <hi>Don Quixot</hi> shall ex<g ref="char:EOLhyphen"/>plain whom he means by <hi>the Parliament of death.</hi>
+               </p>
+               <p n="136">136. An Act for sending some Cheese and Bisket to the Army in <hi>Ireland,</hi> provided the Cheese be not <hi>Holland-cheese,</hi> but made in our own <hi>State.</hi>
+               </p>
+               <p n="137">137. An Act forbidding any more to put Greek or Latine Titles to their books, unlesse such persons as can but spell English.</p>
+               <p n="138">138. An Act forbidding Delinquents to Petition till the State hath leisure for more weighty affairs.</p>
+               <p n="139">
+                  <pb n="30" facs="tcp:98456:16"/> 139. An Act for removing the Alphabet <hi>Crosse</hi> from the Children's Primer, and the <hi>Crosse</hi> from off the Speaker's Mace, and for adding Saint <hi>An<g ref="char:EOLhyphen"/>drews Crosse</hi> to Saint <hi>George</hi>'s in the <hi>States</hi> Armes.</p>
+               <p n="140">140. An Act forbidding all Grocers and Cooks from buy<g ref="char:EOLhyphen"/>ing any more of the Parlia<g ref="char:EOLhyphen"/>ments Declarations.</p>
+            </div>
+            <div n="7" type="part">
+               <head>CLASSIS VII.</head>
+               <head type="sub">Half a dozen large Petitions.</head>
+               <p n="141">141. THe humble Petition of the City of <hi>London,</hi> that those Citizens, who can raise no Horse, may raise a Troop of Oxen.</p>
+               <p n="142">142. The humble Petition of the Keeper of <hi>Bedlam, (alias Bethlehem)</hi> that he may have
+<pb n="31" facs="tcp:98456:16"/> more help, in regard his Pri<g ref="char:EOLhyphen"/>soners now break loose, &amp; are all turn'd Preachers.</p>
+               <p n="143">143 The humble Petition of all North<hi>-Wales,</hi> that the <hi>State</hi> would open their Church doors; for since the <hi>Bedlamites</hi> (Riding Ministers) came to <hi>re<g ref="char:EOLhyphen"/>form</hi> them, their Stables are o<g ref="char:EOLhyphen"/>pened, and their Churches all shut up.</p>
+               <p n="144">144. The humble Petition of the six Counties of South<hi>-Wales,</hi> that since they must have but <hi>three</hi> Preachers, they desire those three may have six eyes; for though <hi>Jenkin Jones</hi> looks nine wayes, yet <hi>Davy Gam</hi> is but half a <hi>Seer,</hi> and not <hi>capacitated</hi> to be a <hi>new Light.</hi>
+               </p>
+               <p n="145">145. The humble Petition of <hi>William Du-gard,</hi> the State's Printer, that having now prin<g ref="char:EOLhyphen"/>ted the <hi>Racovian Catechisme,</hi> he
+<pb n="32" facs="tcp:98456:17"/> may have the sole printing of of <hi>Bernardinus Ochinus,</hi> or, <hi>the three grand Impostours,</hi> which he hath also ready.</p>
+               <p n="146">146. The humble Petition of <hi>Matthew Walhank</hi> and <hi>Gyles Calvert,</hi> in regard that Paper grows dear, the <hi>State</hi> would grant them the Paper which sticks in needlesse Tickets up<g ref="char:EOLhyphen"/>on every doore, since now so few take lodgings in <hi>London.</hi>
+               </p>
+            </div>
+            <div n="8" type="part">
+               <head>CLASSIS VIII.</head>
+               <head type="sub">Commentators and School-men.</head>
+               <p n="147">147 <hi>FLores Edvardi Cooke.</hi> A Collection of all my Lord <hi>Cookes</hi> Latin Sentences, with a List of those Authors <hi>(Lycostehenes, Calepine, Cato,</hi> and other good <hi>School-men)</hi> where his Lordship had his ga<g ref="char:EOLhyphen"/>therings.</p>
+               <p n="148">
+                  <pb n="33" facs="tcp:98456:17"/> 148. A large Commentary on <hi>Aristotle</hi>'s <hi>Problems,</hi> by two Preaching Ladies, the one young, the other old and both painted.</p>
+               <p n="149">149. <hi>Pre corpore Politico.</hi> That the <hi>new Representative</hi> was but an <hi>Apparition,</hi> because it was so soon <hi>vanish'd.</hi>
+               </p>
+               <p n="150">150. <hi>The Archbishop of Can<g ref="char:EOLhyphen"/>terbury</hi>'s <hi>Tryall,</hi> writ by <hi>William Prinn,</hi> declaring all the <hi>Arch<g ref="char:EOLhyphen"/>bishop</hi> spake or did before he was born, and since his Burial; being the 9th Tome of Master <hi>Prinn's</hi> Works.</p>
+               <p n="151">151. <hi>Testis Singularis.</hi> That <hi>Malchus</hi> might lawfully be a witnesse (against Saint <hi>Peter)</hi> though his Ear was cut off. By an utter Barrister of <hi>Lincolne</hi>'s <hi>Inne.</hi>
+               </p>
+               <p n="152">152 <hi>Contra Verrem.</hi> The un<g ref="char:EOLhyphen"/>lawfulnesse of eating Swine's
+<pb n="34" facs="tcp:98456:18"/> flesh. By <hi>Miles Corbet.</hi>
+               </p>
+               <p n="153">153. <hi>Pro Verre.</hi> In defence of Swines flesh, written in <hi>Tus<g ref="char:EOLhyphen"/>can</hi> by <hi>Bocco de Porco,</hi> and <hi>pro<g ref="char:EOLhyphen"/>cured</hi> into English by Signor <hi>Ambrosto,</hi> late Reader in the late <hi>New Academy.</hi>
+               </p>
+               <p n="154">154. <hi>Sepelire Mortuos.</hi> A List of those <hi>Scots</hi> who dying in prison were denied Christi<g ref="char:EOLhyphen"/>an Buriall, and (left in the Feilds) were eaten by Hogs, which now makes Pork so cheap in <hi>London.</hi>
+               </p>
+               <p n="155">155. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That <hi>London</hi> is neither Horse nor Mule; first because she is so easily bridled. Secondly, Horse and Mule cannot know their own strength, but <hi>London</hi> can and dare not.</p>
+               <p n="156">156. <hi>Angelus Lapsus.</hi> A dis<g ref="char:EOLhyphen"/>course proving that Devils may be saved; written lately
+<pb n="35" facs="tcp:98456:18"/> by a revolted <hi>Cavaleer.</hi>
+               </p>
+               <p n="157">157. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The Art of turning three wayes in two years. By Col. <hi>George Monke.</hi>
+               </p>
+               <p n="158">158. A plain Exposition of <hi>Quid dabitis</hi> in Saint <hi>Mathew.</hi> By Colonel <hi>Dundas</hi> late Go<g ref="char:EOLhyphen"/>vernour of <hi>Edenburgh</hi> Castle.</p>
+               <p n="159">159. A letter of Thanks from the Spanish Embassadour <hi>(Don Alonzo de Cardenas</hi> to the Councell of <hi>State,</hi> for hanging his Rooms with <hi>Titian's</hi> 12. <hi>Caesars</hi> and other rare pieces of the King of <hi>England</hi>'s goods.</p>
+               <p n="160">160. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The Art of Declaring, Undeclaring, Adding or Expunging. By the Earle of <hi>Lowdon</hi> Lord Chance<g ref="char:EOLhyphen"/>lor of <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <pb n="36" facs="tcp:98456:19"/>
+               <head>CLASSIS. IX.</head>
+               <head type="sub">
+                  <hi>Casuists, Resolving Tender Con<g ref="char:EOLhyphen"/>sciences in these</hi> 40 <hi>Quaeries.</hi>
+               </head>
+               <p n="161">161. WHether <hi>Cain</hi> had the <hi>power of the Sword,</hi> when he reformed <hi>A<g ref="char:EOLhyphen"/>bell?</hi>
+               </p>
+               <p n="162">162. Whether it is not a horrible Imprecation against the <hi>State</hi> to wish that every man might have his due?</p>
+               <p n="103">103. Whether <hi>John Lilbourn</hi> were not an Asse to think that a Councellor of <hi>State</hi> could sin.</p>
+               <p n="164">164. Whether the City of <hi>Dublin</hi> stands upon her head while a Shoomaker Governs her?</p>
+               <p n="165">165. Why three Counties in <hi>Ireland</hi> should petition for
+<pb n="37" facs="tcp:98456:19"/> Bread, when their present Commander is a <hi>London</hi> Ba<g ref="char:EOLhyphen"/>ker?</p>
+               <p n="166">166. Why no man accepts of Mr. <hi>Nicolas Culpepper,</hi> though he offers <hi>to cure all Di<g ref="char:EOLhyphen"/>seases for three pence?</hi>
+               </p>
+               <p n="167">167. Whether Doctor <hi>Hoyle</hi> (for keeping the <hi>Chayre</hi> at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> from Doctor <hi>Saunderson)</hi> ought not to follow his Name<g ref="char:EOLhyphen"/>sake Alderman <hi>Hoyle?</hi>
+               </p>
+               <p n="168">168. Whether the said Do<g ref="char:EOLhyphen"/>ctor <hi>Hoyle</hi> be fittest for the <hi>Chayre,</hi> because (being lately drunk with his Man) he fell off a Stoole?</p>
+               <p n="169">169. Whether Doctor <hi>Hill</hi> were a King, when he prayed, <hi>O Lord do thou depose Him who would depose Ʋs?</hi>
+               </p>
+               <p n="170">170. Whether the said Do<g ref="char:EOLhyphen"/>ctor <hi>Hill</hi> (being then strook speechlesse) had the <hi>spirit of</hi>
+                  <pb n="38" facs="tcp:98456:20"/>
+                  <hi>Ʋtterance,</hi> or the <hi>Dumb Devill?</hi>
+               </p>
+               <p n="171">171. Why <hi>Saints</hi> are so much for things of this world?</p>
+               <p n="172">172. Whether he that now dare be honest is not thought a Fool?</p>
+               <p n="173">173. Whether Sir <hi>William Brereton</hi> doth <hi>devoure</hi> Church<g ref="char:EOLhyphen"/>lands, since he made the Chap<g ref="char:EOLhyphen"/>pell at <hi>Croydon</hi> his Kitchin?</p>
+               <p n="174">174. Whether Cavaleers may have one Christmas in twelve years, when the States keep Christmasse all the year long?</p>
+               <p n="175">175. Whether Master <hi>Peters</hi> did justly preach against Christmas-Pyes the same day he eat two Mince-pyes to his dinner?</p>
+               <p n="176">176. Whether there now live more men or women in the <hi>Inns</hi> of <hi>Court?</hi>
+               </p>
+               <p n="177">177. Whether it is not clear<g ref="char:EOLhyphen"/>ly
+<pb n="39" facs="tcp:98456:20"/> proved that there are Witches, since <hi>England</hi> hath been bewitched eleven years together?</p>
+               <p n="178">178. Whether the new Congregation at <hi>Wrexham</hi> be all <hi>electe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> because (like Sheep) their bodies are <hi>Sealed,</hi> and whether the Mark may be cal<g ref="char:EOLhyphen"/>led a Teat?</p>
+               <p n="179">179. Whether our <hi>Reformers</hi> may lawfully trade in Magick, because <hi>Luther</hi> and Dr. <hi>Faustus</hi> taught both in one Town?</p>
+               <p n="180">180. Why <hi>Lucian</hi> makes Hell governed by a Commit<g ref="char:EOLhyphen"/>tee?</p>
+               <p n="181">181. Whether twelve years are sufficient to try how we can live without a King?</p>
+               <p n="182">182. Whether the House of Commons be a Widdow, a Wife, a Maid, or a Common-wealth?</p>
+               <p n="183">
+                  <pb n="40" facs="tcp:98456:21"/> 183. Whether our new <hi>States</hi> may not grow as great as old <hi>Rome,</hi> since They and <hi>Ro<g ref="char:EOLhyphen"/>mulus</hi> had the same Nurse?</p>
+               <p n="184">184. Whether it yet appears that his late <hi>Majesty</hi> had rea<g ref="char:EOLhyphen"/>son to deny them the <hi>Militia?</hi>
+               </p>
+               <p n="185">185. Whether <hi>Raunters</hi> and <hi>Committee-men</hi> (who deny there is a God) may not law<g ref="char:EOLhyphen"/>fully affirm there are no De<g ref="char:EOLhyphen"/>vils, since Scripture commands us to <hi>deny our selves?</hi>
+               </p>
+               <p n="186">186. Whether Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Harrison</hi> be bound to give no quarter, because his Father is a Butcher?</p>
+               <p n="187">187. Whether the said Ma<g ref="char:EOLhyphen"/>jor Generall meant <hi>June</hi> or <hi>Au<g ref="char:EOLhyphen"/>gust</hi> in his last printed Letter, dated <hi>the fifteeneth day of the sixth moneth?</hi>
+               </p>
+               <p n="188">188. Whether the disputa<g ref="char:EOLhyphen"/>tion 'twixt his late <hi>Majesty</hi> and
+<pb n="41" facs="tcp:98456:21"/> Master <hi>Henderson</hi> (which broke <hi>Hendersons</hi> heart) did succeed the better, because it began the 29th of <note n="*" place="margin">1646.</note>
+                  <hi>May,</hi> which is the Kings Birth-day?</p>
+               <p n="189">189. Whether the <hi>Scots</hi> Marching for <hi>England</hi> (thrice against the King, and thrice a<g ref="char:EOLhyphen"/>gainst the Parliament) have not satisfied all Parties?</p>
+               <p n="190">190. Whether it were in Memory of Saint <hi>Paul</hi> that the last week at <hi>Edenburgh</hi> they voted an honest Scot to have <hi>forty stripes save one?</hi>
+               </p>
+               <p n="191">191. Whether Mistris <hi>Owen</hi> did justly accuse two Gentle<g ref="char:EOLhyphen"/>men <hi>to have drunk the Kings health in Latine,</hi> when their words were, <hi>Hans en Kelder?</hi>
+               </p>
+               <p n="192">192. Whether to drink the Kings health be the whole du<g ref="char:EOLhyphen"/>ty of a good Subject?</p>
+               <p n="193">193. Whether all Parlia<g ref="char:EOLhyphen"/>ment-men
+<pb n="42" facs="tcp:98456:22"/> have Wives, since <hi>Lilly</hi> in his dedication says<hi>—Vos non vobis fertis aratra bo<g ref="char:EOLhyphen"/>ves?</hi>
+               </p>
+               <p n="194">194. Whether the great Pox may be called the <hi>Ingage<g ref="char:EOLhyphen"/>ment,</hi> since so many <hi>well-affect<g ref="char:EOLhyphen"/>ed</hi> have lately <hi>engaged?</hi>
+               </p>
+               <p n="195">195. Whether ever the People will petition again <hi>to be put into a Posture of Defence?</hi>
+               </p>
+               <p n="196">196. Whether those that bought, or those that sold Church Lands are more errant <hi>Reformers?</hi>
+               </p>
+               <p n="197">197. Whether the worm of Conscience dare bite a Parlia<g ref="char:EOLhyphen"/>ment-man?</p>
+               <p n="198">198. Whether it is properly call'd <hi>PAVLS CHVRCH YARD,</hi> since 'twill be a Yard without a Church?</p>
+               <p n="199">199. Whether the Saint that plundered my Books did
+<pb n="43" facs="tcp:98456:22"/> well to mention the <hi>Iron Age,</hi> when he himself had a wood<g ref="char:EOLhyphen"/>en Leg?</p>
+               <p n="200">200. Whether any Age of Gold, Silver, Brasse, or Iron can match this <hi>Wooden Age,</hi> when men must neither write nor read?</p>
+            </div>
+            <trailer>Sic explicit Centuria secunda.</trailer>
+         </div>
+         <div type="mock_book_catalogue">
+            <pb n="44" facs="tcp:98456:23"/>
+            <head>Bibliotheca Parliamenti, &amp;c. Done into English for the As<g ref="char:EOLhyphen"/>sembly of Divines.</head>
+            <div type="part">
+               <head>Books to be sold in Little Britain.</head>
+               <p n="1">1. <hi>LƲes Gallica, Regina Gal<g ref="char:EOLhyphen"/>lorum;</hi> or, the Pox in <hi>folio,</hi> by <hi>Henry Martin,</hi> a dwindled Member in the Commons House.</p>
+               <p n="2">2. <hi>Jurandi formula:</hi> or, the Rolls of <hi>Pembroke</hi>'s Oaths in <hi>folio.</hi>
+               </p>
+               <p n="3">3. <hi>Laus Pediculi.</hi> A short legg'd Treatise, wherein is
+<pb n="45" facs="tcp:98456:23"/> held forth this truth, that be<g ref="char:EOLhyphen"/>cause the six-footed creature walks gravely, and feeds ma<g ref="char:EOLhyphen"/>jestically on our heads, there<g ref="char:EOLhyphen"/>fore we may trample on the Crown; by five Members and <hi>Kymbolton.</hi>
+               </p>
+               <p n="4">4. <hi>Experientia docet.</hi> A Tract proving that there is an hell, contrary to the present sense of the House; by a—mem<g ref="char:EOLhyphen"/>ber thereof lately deceased.</p>
+               <p n="5">5. <hi>Lux nova.</hi> A Christmass candle, or a new light held forth last winter in Bridwell in <hi>Oxford,</hi> proving that darkness is better than light; by Master <hi>Goodwin,</hi> Master of <hi>Magd.</hi> Col<g ref="char:EOLhyphen"/>ledge.</p>
+               <p n="6">6. <hi>Via tuta;</hi> or a safe way for a man to save his life and lose his soule; by M. <hi>Ienkins,</hi> Minister of that word.</p>
+               <p n="7">7. <hi>Theopoeia.</hi> A Discourse
+<pb n="46" facs="tcp:98456:24"/> shewing to us mortalls, that <hi>Cromwel</hi> may be reckoned a<g ref="char:EOLhyphen"/>mongst the gods, since he hath put off all humanity.</p>
+               <p n="8">8. <hi>Virgarum Collector. Lil<g ref="char:EOLhyphen"/>bourn</hi> stript and whipt, by Co<g ref="char:EOLhyphen"/>lonel <hi>Birch.</hi>
+               </p>
+               <p n="9">9. The art of hearing with<g ref="char:EOLhyphen"/>out ears by <hi>Will. Prinn.</hi>
+               </p>
+               <p n="10">10. <hi>Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tus Helena;</hi> the way of getting women with child; by M. <hi>Scot,</hi> a knowing mem<g ref="char:EOLhyphen"/>ber.</p>
+               <p n="11">11. <hi>Vox Populi,</hi> or the joynt opinion of the whol Kingdom of <hi>England,</hi> That the Parlia<g ref="char:EOLhyphen"/>ment is hell, because the tor<g ref="char:EOLhyphen"/>ments of it are like to be ever<g ref="char:EOLhyphen"/>lasting.</p>
+               <p n="12">12. <hi>Pisces respirant.</hi> A Tract proving that Fishes breath, be<g ref="char:EOLhyphen"/>cause Dr. <hi>Hill</hi> of <hi>Cambridge;</hi> when he should have preach<g ref="char:EOLhyphen"/>ed, sate as mute as a fish; but
+<pb n="47" facs="tcp:98456:24"/> sighed a whole Pulpit full.</p>
+               <p n="13">13. <hi>Interpolator Mangoni<g ref="char:EOLhyphen"/>zans:</hi> Or, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Art of seque<g ref="char:EOLhyphen"/>string the Parliaments Library into Hucksters hands; by the late Publisher of the same, <hi>Ig<g ref="char:EOLhyphen"/>noramus,</hi> or <hi>Nebulo in Grano.</hi>
+               </p>
+               <p n="14">14. <hi>Plus vident oculi, quàm oculus:</hi> An Explanation of some obscure passages in Dr. <hi>Ow<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi>'s <hi>Primer,</hi> by Dr. <hi>Stanton.</hi> Printed for the English Com<g ref="char:EOLhyphen"/>pany in Christ-church, <hi>Oxford.</hi> But may indifferently serve for both the Universities.</p>
+               <p n="15">15. <hi>Sejanus:</hi> An old Trage<g ref="char:EOLhyphen"/>dy to be newly acted by the company at the <hi>Cock-pit.</hi>
+               </p>
+               <p n="16">16. <hi>Memorem oportet—</hi>or, The art of memory, by Sr. <hi>Tho. Jervoyse.</hi>
+               </p>
+               <p n="17">17. <hi>Vox &amp; praetereà nihil:</hi> An Answer to Mr. <hi>Carpenters</hi> Sermon, and no Sermon, by Dr.
+<pb n="48" facs="tcp:98456:25"/>
+                  <hi>Cheynell,</hi> a preacher and no Preacher.</p>
+               <p n="18">18. <hi>Vermis immortalis:</hi> The Sting of Conscience; A Tract of wholesome concernment for this present State; written with the sharp end of <hi>Arise E<g ref="char:EOLhyphen"/>van</hi>'s Spanish Pike; and sold by <hi>Cornelius Bee,</hi> at the Kings Arms in <hi>Little-Brittain.</hi>
+               </p>
+               <p n="19">19. <hi>Loquaces Infantum La<g ref="char:EOLhyphen"/>chrymae;</hi> or, The cry of great Britains little-children against the State for want of Fire; and against Dr. <hi>Jer. Taylor</hi> for want of Water.</p>
+               <p n="20">20. <hi>Pharmacopoeia Westmo<g ref="char:EOLhyphen"/>nasteriensis;</hi> An Excellent store house, containing many rare secrets: As</p>
+               <p>First, An excellent Water, to take away the Inflamation of the Nose, Face, or other members, made by Mrs <hi>Lam<g ref="char:EOLhyphen"/>bert.</hi>
+               </p>
+               <pb n="49" facs="tcp:98456:25"/>
+               <p> Secondly, An Excellent So<g ref="char:EOLhyphen"/>veraign mornings-drink, to drown the Worm of Con<g ref="char:EOLhyphen"/>science, found by <hi>Tho Chaloner</hi> lately Esquire.</p>
+               <p>Thirdly, The Cause and Cure of the Presbyterian Itch in the Tongue and Ears, found out by Dr. <hi>Hanger</hi> of <hi>Hempstede,</hi> Printed by <hi>John Knot,</hi> for <hi>Abel Rope<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and the Assignes of <hi>Gre<g ref="char:EOLhyphen"/>gory Brandon.</hi>
+               </p>
+               <p>Fourthly, <hi>Conserve of Sea-Cole;</hi> A Soveraign Antidote against the plague in the Purse by Dr. <hi>Gouge</hi> Merchant of <hi>Coals</hi> and <hi>Souls. Probatum est.</hi>
+               </p>
+               <p>Fifthly, An Excellent way to purge an <hi>House</hi> from Ver<g ref="char:EOLhyphen"/>min, with a Powder found out by <hi>O. C.</hi> the Parliaments Apo<g ref="char:EOLhyphen"/>thecary.</p>
+               <p n="21">21. <hi>Calvini Miraculum;</hi> or, The Resurrection from the
+<pb n="50" facs="tcp:98456:26"/> Grave, proved very stoutly by the Lord <hi>Wharton,</hi> in his Book called <hi>Edg-hill,</hi> or <hi>the Saw-pit.</hi>
+               </p>
+               <p n="22">22. <hi>Fire, Fire!</hi> A small Ma<g ref="char:EOLhyphen"/>nuall, dedicated to Sir <hi>Arthur Hasteridge;</hi> in which is plainly proved by a whole chauldron of Scripture, that <hi>John Lilborn</hi> will not carry Coals. By Dr. <hi>Gouge.</hi>
+               </p>
+               <p n="23">23. <hi>Phaëthontis Quadriga:</hi> A Watch-word to the Gene<g ref="char:EOLhyphen"/>rals Coach-man, wherein is, this friendly Whisper, That after Drawing comes Hanging; By Major Gen. <hi>Holborn.</hi>
+               </p>
+               <p n="24">24. <hi>Hocus Pocus,</hi> The Art of Preaching booty, or of Jug<g ref="char:EOLhyphen"/>ling in the Pulpit, made more plain and easie for the present sucking Clergy. By <hi>Stephen Marshall</hi> Professor of the same.</p>
+               <p n="25">25. <hi>Pandectae Novatianae:</hi> A Tract, wherein is held forth
+<pb n="51" facs="tcp:98456:26"/> this Truth, that although thou mayest not lye with another mans wife, yet thou mayest lye with thine own mans wife. By <hi>S. P. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. B.</hi> an able member of the House.</p>
+               <p n="26">26. <hi>Oracula Cessârunt:</hi> Or, The Art of Silencing the Uni<g ref="char:EOLhyphen"/>versity of <hi>Cambridge;</hi> By <hi>John Goodwyn</hi> of <hi>Coleman-street.</hi>
+               </p>
+               <p n="27">27. <hi>Cornucopia:</hi> The Works of the late Earle of <hi>Essex,</hi> com<g ref="char:EOLhyphen"/>prised all in one large Horn<g ref="char:EOLhyphen"/>book; set forth by the Assem<g ref="char:EOLhyphen"/>bly of Divines, and Ordered to be used instead of that old Almanack the <hi>Directory.</hi>
+               </p>
+               <p n="38">38. <hi>Quiequid libet, licet:</hi> A Tract, proving that a man may hang himself at what time so<g ref="char:EOLhyphen"/>ever his stomack shall serve him; provided alwayes that it be in a Parliamentary way. By Alderman <hi>Hoyle,</hi> Dedicated
+<pb n="52" facs="tcp:98456:27"/> to my good Lord <hi>Bradshaw,</hi> who hath now little else to do.</p>
+            </div>
+            <div type="part">
+               <head>Acts and Orders.</head>
+               <p n="1">1. ORdered, That Alder<g ref="char:EOLhyphen"/>man <hi>Atkins</hi> Breeches be sent to the Navy to poyson Bullets.</p>
+               <p n="2">2. Upon a Petition of the Levellers, it was ordered, That the Sabbath be no more called the Lord day, because the word (Lord) is scandalous and contrary to the equall free<g ref="char:EOLhyphen"/>dome of the People. And that it be not called Sunday nei<g ref="char:EOLhyphen"/>ther, because the Sun is a Mo<g ref="char:EOLhyphen"/>narch.</p>
+               <p n="3">3. Ordered, That Sr. <hi>Henry Mildmay</hi> make a privy search in Alderman <hi>Atkin</hi>'s Breeches, for a rich Carbuncle lost lately from his Excellency's Nose.</p>
+               <p n="4">
+                  <pb n="53" facs="tcp:98456:27"/> 4. Ordered, That the Lord <hi>Fairfax</hi> (in recompence of his faithfull service to the Com<g ref="char:EOLhyphen"/>mon-wealth) be made Gover<g ref="char:EOLhyphen"/>nour of all Sr. <hi>Whimsie Mild<g ref="char:EOLhyphen"/>may</hi>'s Castles in the Ayre.</p>
+               <p n="5">5. Ordered, That All Mini<g ref="char:EOLhyphen"/>sters, which cannot pray and Preach by the spirit, shall live by the ayre.</p>
+               <p n="6">6. An Act for reforming di<g ref="char:EOLhyphen"/>verse Texts of Scripture, as be<g ref="char:EOLhyphen"/>ing of dangerous consequence and contrary to the very be<g ref="char:EOLhyphen"/>ing of this present State, be<g ref="char:EOLhyphen"/>ginning at <hi>Rom.</hi> 13. where it is said, <hi>Let every soul be subject to the higher Powers:</hi> which words are thus to be refor<g ref="char:EOLhyphen"/>med, <hi>Let every soul be subject to the lower House.</hi>
+               </p>
+               <p n="7">7. Ordered, That there be a Thanksgiving in <hi>Holland,</hi> for our Hogen Mogen victories o<g ref="char:EOLhyphen"/>ver
+<pb n="54" facs="tcp:98456:28"/> the <hi>Dutch.</hi>
+               </p>
+               <p n="8">8. Ordered, That Malefa<g ref="char:EOLhyphen"/>ctors condemned to dye, be hanged in Wyths, because the States want ropes themselves.</p>
+               <p n="9">9 Ordered, That the Books of Kings in the Bible, be here<g ref="char:EOLhyphen"/>after called, <hi>The Bookes of the Parliament:</hi> And the Chro<g ref="char:EOLhyphen"/>nicle also (being a word too hard for vulgar capacities) be for the time to come, called by the more familiar title of <hi>Di<g ref="char:EOLhyphen"/>urnalls.</hi>
+               </p>
+               <p n="10">10. Ordered, That the Ci<g ref="char:EOLhyphen"/>ties of <hi>London</hi> and <hi>Westm<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nster</hi> be called by their proper names of <hi>Sodome</hi> and <hi>Gomor<g ref="char:EOLhyphen"/>rha.</hi>
+               </p>
+               <p n="11">11. Ordered, That because Coals are so dear, a day of A<g ref="char:EOLhyphen"/>shes be appointed; and the hot Presbyterian ministers to fetch fire from heaven.</p>
+               <p n="12">
+                  <pb n="55" facs="tcp:98456:28"/> 12. Ordered, That Alder<g ref="char:EOLhyphen"/>man <hi>Atk<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns</hi> be d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sired to hold forth before the House; and the Dutch Company to give him some School-butter, for his great pains in easing him<g ref="char:EOLhyphen"/>self.</p>
+               <p n="13">13. Ordered, That the As<g ref="char:EOLhyphen"/>sembly of Divines be desired to give in their opinion, whe<g ref="char:EOLhyphen"/>ther <hi>Hogen</hi> and <hi>Mogen</hi> be not <hi>Gog</hi> and <hi>Magog.</hi>
+               </p>
+               <p n="14">14. Ordered, That all sea<g ref="char:EOLhyphen"/>mens widdows be sent to <hi>Oba<g ref="char:EOLhyphen"/>diah Sedgewick</hi> for due bene<g ref="char:EOLhyphen"/>volence: And this Ordinance to last both now and anon too.</p>
+               <p n="15">15. Ordered, That the As<g ref="char:EOLhyphen"/>sembly of Divines be desired to give in their verdict to Judge <hi>Rolls,</hi> whether the Bur<g ref="char:EOLhyphen"/>ning of Lords in the hand, be <hi>Jure divino.</hi>
+               </p>
+               <p>Two Orders not entered in
+<pb n="56" facs="tcp:98456:29"/> the Parliaments Register; yet since published by <hi>Hoyles</hi> son, because they related to his Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>First, That it was death for any man to hang himself.</p>
+               <p>Secondly, That that Mem<g ref="char:EOLhyphen"/>ber that <hi>Hoyld,</hi> in English <hi>han<g ref="char:EOLhyphen"/>ged</hi> himself, was made unca<g ref="char:EOLhyphen"/>pable <hi>ipso facto,</hi> for ever sitting in the House.</p>
+            </div>
+            <div type="part">
+               <head>Cases of Conscience.</head>
+               <p n="1">1. WHether it be proba<g ref="char:EOLhyphen"/>ble, that ever any man will be so purblinde, as to take Sr. <hi>Will. Davenant</hi> for the Lord Generall <hi>Cromwell?</hi>
+               </p>
+               <p n="2">2. Whether it be not just, that those members which had sold themselves to work wickednesse, should be offered at twelve a peny?</p>
+               <p n="3">
+                  <pb n="57" facs="tcp:98456:29"/> 3. Whether Colonell <hi>Pride</hi> be not as humble as his very Name?</p>
+               <p n="4">4. Whether our State did not fall short <hi>de Wit,</hi> when they went to Logger-heads with the United Buter-boxes?</p>
+               <p n="5">5. Whether the Diet in <hi>Ger<g ref="char:EOLhyphen"/>many</hi> doth not go very much against the stomach of our English State?</p>
+               <p n="6">6. Whether the Drunken<g ref="char:EOLhyphen"/>nesse of our land hath not cau<g ref="char:EOLhyphen"/>sed Heaven to set a Brewer o<g ref="char:EOLhyphen"/>ver us, with his Copper—?</p>
+               <p n="7">7. Whether the Dutch be not Anabaptists, seeing they dip our Brethren, if they have but faith enough to adventure upon the Seas?</p>
+               <p n="8">8. Whether we be not tur<g ref="char:EOLhyphen"/>ned Papists, since all our De<g ref="char:EOLhyphen"/>votion consists in praying to Saints; as St. <hi>Oliver,</hi> St. <hi>Hugh,</hi>
+                  <pb n="58" facs="tcp:98456:30"/> Saint <hi>Pride, Adjuva nos?</hi>
+               </p>
+               <p n="9">9. Whether it be not expe<g ref="char:EOLhyphen"/>dient to pray to them in En<g ref="char:EOLhyphen"/>glish, seeing they understand no Latine?</p>
+               <p n="10">10. Whether <hi>Venter &amp; Neu<g ref="char:EOLhyphen"/>ter</hi> be not as true an Anagram as <hi>Atkins,</hi> a stink?</p>
+               <p n="11">11. Whether the Publique Faith be not worse then <hi>Moll Cut-purse,</hi> seeing she helps us to our Thimbles and Bodkins again?</p>
+               <p n="12">12. Whether the States of <hi>Holland,</hi> by reason of their low situation, may be justly said to be nigher Hell, then our Com<g ref="char:EOLhyphen"/>mon▪wealth?</p>
+               <p>1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Whether the pitifull Lord <hi>Grey</hi> of <hi>Grooby</hi> did not learn of his Father (in the west) to keep running horses at <hi>Stamford?</hi>
+               </p>
+               <p n="14">14. Whether it was not just,
+<pb n="59" facs="tcp:98456:30"/> that Mr. <hi>Love</hi> should be with<g ref="char:EOLhyphen"/>out a Head, he being so earnest for a Parity?</p>
+               <p n="15">15. Whether Alderman <hi>At<g ref="char:EOLhyphen"/>kins</hi> may be reckoned among our Saints, seeing he is a known loose-liver?</p>
+               <p n="16">16. Whether <hi>Opera Tene<g ref="char:EOLhyphen"/>brarum</hi> be not true Latine, for our late Acts of Parliament?</p>
+               <p n="17">17. Whether when Colo<g ref="char:EOLhyphen"/>nel <hi>Pride</hi> goes to quarter with old <hi>Nick,</hi> the Proverb will not be verified, <hi>Priae feels no cold?</hi>
+               </p>
+               <p n="18">18. Whether the King of <hi>Denmark</hi> hath not hitherto de<g ref="char:EOLhyphen"/>tained our Hempen wares, on purpose to send them by Mes<g ref="char:EOLhyphen"/>ssengers of his own?</p>
+               <p n="19">19. Whether <hi>Van Trumpe</hi> doth not put our <hi>Hogen Mogens</hi> in mind of the <hi>Reer Trump?</hi>
+               </p>
+               <p n="20">20. Whether it be not pro<g ref="char:EOLhyphen"/>bable that our State will, e're
+<pb n="60" facs="tcp:98456:31"/> long fall asunder, seeing they want rope to make them hang together?</p>
+               <p n="21">21. Whether the word Mi<g ref="char:EOLhyphen"/>nister doth not (in <hi>England)</hi> si<g ref="char:EOLhyphen"/>gnifie one, who will break two Tables to serve one?</p>
+               <p n="22">22. Whether <hi>Malus, Pejor, Pessimus,</hi> be not Latine for <hi>Lambert, Harrison, Cromwell?</hi>
+               </p>
+               <p n="23">23. Whether the opening of the Speakers Purse, will not follow the shutting of his mouth?</p>
+               <p n="24">24. Whether we did not fall out with the <hi>Dane</hi> and <hi>Dutch</hi> for want of Rope and Butter?</p>
+               <p n="25">25. Whether <hi>Cromwels</hi> nose, though (as yet) the great light of our New <hi>England,</hi> be not likely, e're long, to go out in a snuff?</p>
+               <p n="26">26. Whether a standing
+<pb n="61" facs="tcp:98456:31"/> Army is worse then a sitting Parliament?</p>
+               <p n="27">27. Whether the Lord St. <hi>John</hi> be not troubled with the Stone in the Heart, seeing he hath swallowed the whole Ca<g ref="char:EOLhyphen"/>thedrall Church of <hi>Peterbo<g ref="char:EOLhyphen"/>rough?</hi>
+               </p>
+               <p n="28">28. Whether the Parlia<g ref="char:EOLhyphen"/>ment may not be damned, not<g ref="char:EOLhyphen"/>withstanding the Committee of Indempnity?</p>
+               <p n="29">29. Whether ever since the House of Commons was lock<g ref="char:EOLhyphen"/>ed up, the Speakers Chaire hath not been a Close-stoole?</p>
+               <p n="30">30. Whether it be not sea<g ref="char:EOLhyphen"/>sonable to stop the Nose of my Evill?</p>
+               <p n="31">31. Whether or no, the Ar<g ref="char:EOLhyphen"/>my being Saints, yet in the flesh, can overcome the world and the Devill, as well as they did the Members?</p>
+               <p n="32">
+                  <pb n="62" facs="tcp:98456:32"/> 32. Whether we may speak truth freely, without being counted Traitors to the State?</p>
+               <p n="33">33. Whether a man might not take <hi>White-hall</hi> for <hi>Moore-fields, Bedlam</hi> being so neer?</p>
+               <p n="34">34. Whether <hi>Bermudas</hi> and the Parliament-house, lie un<g ref="char:EOLhyphen"/>der one Planet, seeing both are haunted with Devils?</p>
+               <p n="35">35. Whether a Parliament-man should not take the upper hand of the Devill when they sit next in Councell, since he hath learned as much deceit?</p>
+               <trailer>Finis Bibliothecae, &amp; (proh do<g ref="char:EOLhyphen"/>lor!) Parliament.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98456:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
